@@ -2,7 +2,6 @@
 
 #### I am a student from China. I like programming very much.
 
-<div class="github-card" data-user="lepture" data-repo="EMUL"></div>
 <!--
 **leaf2006/leaf2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
