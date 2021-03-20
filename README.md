@@ -3,7 +3,6 @@
 #### I am a student from China. I like programming very much.
 
 <div class="github-card" data-user="lepture" data-repo="EMUL"></div>
-<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
 <!--
 **leaf2006/leaf2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
