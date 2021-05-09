@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaf2006&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-status.msdnicrosoft.cn/api/top-langs/?username=leaf2006&layout=compact&hide_border=true&theme=radical&hide=html,css)
 
