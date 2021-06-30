@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-status.msdnicrosoft.cn/api/top-langs/?username=leaf2006&layout=compact&hide_border=true&theme=radical&hide=html,css)
 
+![text](https://github-readme-stats.vercel.app/api/top-langs/?username=leaf2006&theme=radical)](https://github.com/SagiriPillow)
+
