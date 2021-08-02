@@ -5,6 +5,8 @@
 #### Of course, I have some projects that are constantly updated, such as<a href="https://github.com/Leen-CSS-Team/EMUL">EMUL</a>.This is not a very good UI library, but it also witnessed my progress.
 
 #### I may not be a good developer and I don't have great talent, but I will work hard on this road.Also, thank my friends for their support
+
+#### I have two blogs,<a href="https://leaf.mistyra.in/">leaf.mistyra.in(recommend)</a>,<a href="https://www.cnblogs.com/leafdeveloper">cnblogs.com/leafdeveloper(This is not commonly used)</a>
 <!--
 **leaf2006/leaf2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
