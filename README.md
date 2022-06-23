@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaf2006&show_icons=true&theme=radical)
 
-![Top langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=leaf2006&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=leaf2006&layout=compact&theme=radical))
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaf2006&layout=compact&theme=radical)
 
