@@ -43,7 +43,7 @@ Google Chrome
 ##### 💻 My Operating System
 ```
 Mac OS
-Windows 11/8.1
+Windows 11 21H2/8.1
 ```
 
 
