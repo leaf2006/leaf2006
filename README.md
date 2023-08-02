@@ -1,5 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<!--
+
 #### I am a student from China. I like programming very much.
 
 #### Of course, I have some projects that are constantly updated, such as<a href="https://github.com/Leen-CSS-Team/EMUL">EMUL</a>.This is not a very good UI library, but it also witnessed my progress.
@@ -13,16 +15,39 @@
 <!--
 Here are some ideas to get you started:
 -->
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🇨🇳 Nation:P.R.CHINA
+- 👯 I’m a High School Student
+- 🌱 I’m currently learning Vue,Dart,Flutter
+- 📫 How to reach me: You can send email to me✉️
+- ⚡ Fun fact: I like Satou Matsuzaka(Happy Sugar Life)😋
+
+我希望你我都能拥有一个Happy Sugar Life，如果你不开心，我祝你平安
+
+ <img src="https://cdn.jsdelivr.net/gh/leaf2006/image/img/111.jpg" width = "350" height = "300" alt="Satou" align=center />
+
+##### 🌟 My Skills
+
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
+
+##### 🖊️ My Editors
+
+```
+Visual Studio Code
+Atom(Atom Never Die😠)
+Google Chrome
+```
+
+##### 💻 My Operating System
+```
+Mac OS
+Windows 11/8.1
+```
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaf2006&show_icons=true&theme=radical)
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaf2006&layout=compact&theme=radical)
