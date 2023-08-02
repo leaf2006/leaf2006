@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can send email to me✉️
 - ⚡ Fun fact: I like Satou Matsuzaka(Happy Sugar Life)😋
 
-我希望你我都能拥有一个Happy Sugar Life，如果你不开心，我祝你平安
+我希望你我都能拥有一个happy ending的Happy Sugar Life。如果你不开心，我祝你平安
 
  <img src="https://cdn.jsdelivr.net/gh/leaf2006/image/img/111.jpg" width = "350" height = "300" alt="Satou" align=center />
 
