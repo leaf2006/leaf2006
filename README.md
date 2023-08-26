@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m a High School Student
 - 🌱 I’m currently learning Vue,Dart,Flutter
 - 📫 How to reach me: You can send email to me✉️
+- ❤️ My hobbies: Coding,Photography,Railway🚞 and Aircraft✈️ lover (especially China Railway and MTR)
 - ⚡ Fun fact: I like Satou Matsuzaka(Happy Sugar Life)😋
 
 我希望你我都能拥有一个happy ending的Happy Sugar Life。如果你不开心，我祝你平安
@@ -36,14 +37,16 @@ Here are some ideas to get you started:
 
 ```
 Visual Studio Code
-Atom(Atom Never Die😠)
+LunarVim(based on NeoVim)
+Sublime Text
 Google Chrome
 ```
 
 ##### 💻 My Operating System
 ```
 Mac OS
-Windows 11 21H2/8.1
+Windows 11
+Debian Linux
 ```
 
 
