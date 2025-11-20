@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🇨🇳 Nation:P.R.CHINA
-- 👯 I’m a University Student
+- 👯 I’m a University Student，19 y.o
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: You can send email to me✉️
 - ❤️ My hobbies: Coding,Photography,Railway🚞 and Aircraft✈️ lover (especially China Railway and MTR)
