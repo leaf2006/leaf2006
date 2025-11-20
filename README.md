@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 🇨🇳 Nation:P.R.CHINA
-- 👯 I’m a High School Student
-- 🌱 I’m currently learning Vue,Dart,Flutter
+- 👯 I’m a University Student
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: You can send email to me✉️
 - ❤️ My hobbies: Coding,Photography,Railway🚞 and Aircraft✈️ lover (especially China Railway and MTR)
 - ⚡ Fun fact: I like Satou Matsuzaka(Happy Sugar Life)😋
@@ -37,15 +37,14 @@ Here are some ideas to get you started:
 
 ```
 Visual Studio Code
-LunarVim(based on NeoVim)
-Sublime Text
 Google Chrome
+Microsoft Edge
 ```
 
 ##### 💻 My Operating System
 ```
-Mac OS
 Windows 11
+Mac OS
 Debian Linux
 ```
 
