@@ -47,9 +47,3 @@ Windows 11
 Mac OS
 Debian Linux
 ```
-
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaf2006&show_icons=true&theme=radical)
--->
-
