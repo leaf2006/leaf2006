@@ -53,5 +53,5 @@ Debian Linux
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaf2006&show_icons=true&theme=radical)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaf2006&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaf2006&layout=pie)](https://github.com/leaf2006/github-readme-stats)
 
