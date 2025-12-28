@@ -32,6 +32,18 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Java-red?style=flat-square)
+![](https://img.shields.io/badge/-Minecraft-4fc08d?style=flat-square)
+
+
+#### Projects I working on
+```
+nonebot-plugin-railwaytools 一个火车迷也许觉得很好用的铁路工具箱
+nonebot-plugin-mc-whitelist-controller 一个控制管理Minecraft服务器白名单的机器人插件，将mc服务器中的玩家id与QQ号绑定
+minecraft-whitelist-watcher-mod 基于Fabric的实时监测白名单变化并重载的mod
+nonebot-plugin-Jinshan-Railway 基于nonebot2的金山铁路工具箱
+```
 
 ##### 🖊️ My Editors
 
@@ -47,3 +59,4 @@ Windows 11
 Mac OS
 Debian Linux
 ```
+
