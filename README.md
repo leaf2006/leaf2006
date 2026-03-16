@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 #### Projects I working on
 ```
 nonebot-plugin-railwaytools 一个火车迷也许觉得很好用的铁路工具箱
+nonebot-plugin-12306-ticket 12306余票查询机器人，助你漫漫回家路
 nonebot-plugin-mc-whitelist-controller 一个控制管理Minecraft服务器白名单的机器人插件，将mc服务器中的玩家id与QQ号绑定
 minecraft-whitelist-watcher-mod 基于Fabric的实时监测白名单变化并重载的mod
-nonebot-plugin-Jinshan-Railway 基于nonebot2的金山铁路工具箱
 ```
 
 ##### 🖊️ My Editors
